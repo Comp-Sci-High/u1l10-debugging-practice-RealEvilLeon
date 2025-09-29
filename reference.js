@@ -24,7 +24,7 @@ console.log(activity)
 
 
 function greet(name) {
-    console.log("Hello " + name);
+    return `Hello ${name}`
 }
 
 console.log(greet("Cesar"))
@@ -33,6 +33,7 @@ console.log(greet("Cesar"))
 
 
 let year = 0;
+
 function car() {
     let model = "Tesla";
     
