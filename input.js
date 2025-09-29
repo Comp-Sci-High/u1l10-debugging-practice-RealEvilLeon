@@ -32,9 +32,6 @@
 //     return "Hello, my name is " + name + ", I am " + age + " years old, and I live in city";
 // }
 
-
-
-
 // let greeting1 = hello("Alice"); 
 // console.log(greeting);
 
