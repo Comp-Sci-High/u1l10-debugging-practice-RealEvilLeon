@@ -8,36 +8,36 @@
 
 // Syntax Errors
 
-// function add(a, b {
-//     return a + b;
-// }
+function add(a, b) {
+    return a + b;
+}
 
-// const result = add(5, 7);
-// console.log(result);
-
-
-
-
-
-
-// if (true {
-//     console.log("HELLO");
-// }
-
-
-
-
-// let x = 10
-// let y = 20;
-// if (x > 5) {
-//     console.log(x is greater than 5);
-// }
+const result = add(5, 7);
+console.log(result);
 
 
 
 
 
-// const = rock {
-//     name: 'pyrite',
-//     age: 67,
-// }
+
+if (true) {
+    console.log("HELLO");
+}
+
+
+
+
+let x = 10
+let y = 20;
+if (x > 5) {
+    console.log(`x is greater than 5`);
+}
+
+
+
+
+
+const rockType =  {
+    name: 'pyrite',
+    age: 67
+}
